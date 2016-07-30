@@ -1,6 +1,6 @@
 # Demonstrate sync features with fibers, futures, sync, ES6 async/await and es6 promises
 
-Some links:
+## Some links:
 
 https://habrahabr.ru/post/116124/
 
@@ -14,17 +14,17 @@ http://stackoverflow.com/questions/18293563/can-node-fibers-be-implemented-using
 
 http://calculist.org/blog/2011/12/14/why-coroutines-wont-work-on-the-web/
 
-video: 
+### video: 
 
 https://www.eventedmind.com/items/nodejs-introducing-fibers
 
-video: 
+### video: 
 
 https://www.eventedmind.com/items/nodejs-using-futures
 
 http://alexeypetrushin.github.io/synchronize/docs/index.html
 
-METEOR ASYNC GUIDE: 
+### Meteor async guide: 
 
 http://gist.io/3443021
 
