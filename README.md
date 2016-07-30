@@ -1,3 +1,6 @@
+# Demonstrate sync features with fibers, futures, sync, ES6 async/await and es6 promises
+
+Some links:
 https://habrahabr.ru/post/116124/
 
 https://habrahabr.ru/company/databoom/blog/257323/
