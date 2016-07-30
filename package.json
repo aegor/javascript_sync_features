@@ -1,0 +1,28 @@
+{
+  "name": "testfibers",
+  "version": "1.0.0",
+  "description": "Some links:",
+  "main": ".",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "fibers": "^1.0.13",
+    "sync": "^0.2.5",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aegor/javascript_sync_features.git"
+  },
+  "author": "Igor Akulov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aegor/javascript_sync_features/issues"
+  },
+  "homepage": "https://github.com/aegor/javascript_sync_features#readme"
+}
